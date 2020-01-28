@@ -1,3 +1,4 @@
+//Reimplementar todo como arreglo de caracteres. cada numero representa un caracter. No se puede almacenar en un dato de tipo numerico
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
